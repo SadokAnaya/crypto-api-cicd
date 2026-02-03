@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wS5qRrIBopQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anaya\\dotnet25\\crypto-api-cicd\\CryptoApi\\CryptoApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anaya\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0\\microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
+    "C:\\Users\\anaya\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
